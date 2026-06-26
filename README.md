@@ -2,23 +2,27 @@
 
 ### 🌟 About Me:
 ---
-Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Institute of Technology (2026) | Naresh IT Certified | Python & AI enthusiast 🌱 📍 Hyderabad, India
+Data Analyst | Machine Learning | Data Science 🎯
+MCA Student at Nalanda Institute of Technology (2026) | Naresh IT Certified | Python & AI enthusiast 🌱
+📍 Hyderabad, India
 
 ### 🌐 Socials:
 ---
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ](https://linkedin.com/in/debashis-mangaraj) [
 
-![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:debashismangaraj8@gmail.com)
 
 ### 💻 Tech Stack:
 ---
-
+| Languages | Data Analysis | Visualization |
+|-----------|--------------|---------------|
+| 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -26,7 +30,7 @@ Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Insti
 
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
- 
+ | 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
@@ -36,11 +40,11 @@ Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Insti
 
  
 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
- 
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+ | 
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
  
 
@@ -48,13 +52,13 @@ Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Insti
 
  
 
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
- 
-
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
- 
+ |
+
+| ML & Deep Learning | NLP & GenAI | Cloud & MLOps |
+|--------------------|-------------|---------------|
+| 
 
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
@@ -64,13 +68,13 @@ Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Insti
 
  
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
- 
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
  
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+ | 
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
@@ -82,19 +86,7 @@ Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Insti
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
- 
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
- 
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
- 
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
- 
+ | 
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
@@ -106,7 +98,23 @@ Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Insti
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
+ |
 
+| Web & APIs |
+|------------|
+| 
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+ 
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+ 
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+ |
 
 ### 📊 GitHub Stats:
 ---
