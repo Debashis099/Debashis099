@@ -1,11 +1,8 @@
+### 👋 Hi, I'm Debashis Mangaraj!
 
 ### 🌟 About Me:
 ---
-Data Analyst | Machine Learning | Data Science 🎯  
-MCA Student at Nalanda Institute of Technology (2026) | Naresh IT Certified  
-Python & AI enthusiast | Building dashboards & predictive models 🌱
-
-📍 Hyderabad, India
+Data Analyst | Machine Learning | Data Science 🎯 MCA Student at Nalanda Institute of Technology (2026) | Naresh IT Certified | Python & AI enthusiast 🌱 📍 Hyderabad, India
 
 ### 🌐 Socials:
 ---
@@ -31,15 +28,15 @@ Python & AI enthusiast | Building dashboards & predictive models 🌱
 
  
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
- 
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
  
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+ 
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
  
 
@@ -59,7 +56,7 @@ Python & AI enthusiast | Building dashboards & predictive models 🌱
 
  
 
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
  
 
@@ -115,32 +112,25 @@ Python & AI enthusiast | Building dashboards & predictive models 🌱
 ---
 
 
-![Debashis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debashis099&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Debashis099&show_icons=true&theme=dark&hide_border=true)
+
+ 
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis099&layout=compact&theme=dark&hide_border=true)
 
 
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis099&layout=compact&theme=dark&hide_border=true)
-
-
-
-### 📂 Featured Projects:
+### 📂 Projects:
 ---
-🛒 **[E-Commerce Analytics](https://github.com/Debashis099/ECommerce_Analytics)** — Primeor Solutions Internship · Power BI · SQL · Python
-
-💳 **[Credit Card Fraud Detection](https://github.com/Debashis099/credit_card_fraud_detection)** — ML · Python · Classification Models
-
-📈 **Sales Data Analysis Dashboard** — 10,000+ records · Power BI · Pandas · Plotly
-
-🔄 **Customer Churn Prediction** — XGBoost · Random Forest · ~85% accuracy
-
-💬 **Sentiment Analysis NLP Pipeline** — BERT · SpaCy · 5,000+ reviews
+🛒 **[E-Commerce Analytics](https://github.com/Debashis099/ECommerce_Analytics)** — Primeor Internship · Power BI · SQL · Python
+💳 **[Credit Card Fraud Detection](https://github.com/Debashis099/credit_card_fraud_detection)** — ML · XGBoost · Python
+📈 **Sales Dashboard** — 10,000+ records · Power BI · Plotly
+🔄 **Customer Churn Prediction** — Random Forest · ~85% accuracy
+💬 **Sentiment Analysis NLP** — BERT · SpaCy · 5,000+ reviews
 
 ### 🏆 Certifications:
 ---
-📜 Data Science — Naresh IT, Hyderabad (2026)  
-📜 Python Full Stack — Naresh IT, Hyderabad
+📜 Data Science — Naresh IT (2026) | 📜 Python Full Stack — Naresh IT
 
 ---
 💡 *"Turning raw data into business value, one insight at a time."*
