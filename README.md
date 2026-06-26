@@ -1,144 +1,72 @@
-### 👋 Hi, I'm Debashis Mangaraj!
+# 👋 Hi, I'm Debashis Mangaraj
 
-### 🌟 About Me:
----
-Data Analyst | Machine Learning | Data Science 🎯
-MCA Student at Nalanda Institute of Technology (2026) | Naresh IT Certified | Python & AI enthusiast 🌱
-📍 Hyderabad, India
+## 💫 About Me
 
-### 🌐 Socials:
----
-[
+🎓 MCA Student (Expected 2026)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+📊 Data Analyst | Data Science | Machine Learning | Generative AI
 
-](https://linkedin.com/in/debashis-mangaraj) [
+💻 Passionate about Python, SQL, NLP, LLMs & Business Intelligence
 
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+🚀 Building real-world AI & Data Analytics projects
 
-](mailto:debashismangaraj8@gmail.com)
-
-### 💻 Tech Stack:
----
-| Languages | Data Analysis | Visualization |
-|-----------|--------------|---------------|
-| 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
- 
-
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
- | 
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
- 
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
- 
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
- | 
-
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
- 
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
- 
-
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
- |
-
-| ML & Deep Learning | NLP & GenAI | Cloud & MLOps |
-|--------------------|-------------|---------------|
-| 
-
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
- 
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
- 
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
- 
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
- | 
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
- 
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
- 
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
- | 
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
- 
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
- 
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
- |
-
-| Web & APIs |
-|------------|
-| 
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
- 
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
- 
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
- |
-
-### 📊 GitHub Stats:
----
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Debashis099&show_icons=true&theme=dark&hide_border=true)
-
- 
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis099&layout=compact&theme=dark&hide_border=true)
-
-
-
-### 📂 Projects:
----
-🛒 **[E-Commerce Analytics](https://github.com/Debashis099/ECommerce_Analytics)** — Primeor Internship · Power BI · SQL · Python
-💳 **[Credit Card Fraud Detection](https://github.com/Debashis099/credit_card_fraud_detection)** — ML · XGBoost · Python
-📈 **Sales Dashboard** — 10,000+ records · Power BI · Plotly
-🔄 **Customer Churn Prediction** — Random Forest · ~85% accuracy
-💬 **Sentiment Analysis NLP** — BERT · SpaCy · 5,000+ reviews
-
-### 🏆 Certifications:
----
-📜 Data Science — Naresh IT (2026) | 📜 Python Full Stack — Naresh IT
+🌱 Always learning new technologies and solving business problems with data.
 
 ---
-💡 *"Turning raw data into business value, one insight at a time."*
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debashis-mangaraj)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debashismangaraj8@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Sales Data Analysis Dashboard
+
+🔹 Customer Churn Prediction
+
+🔹 Sentiment Analysis using NLP
+
+🔹 Streamlit Real-Time Analytics App
+
+---
+
+### ✨ Thanks for visiting my profile!
