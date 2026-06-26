@@ -53,7 +53,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis099&theme=tokyonight&layout=compact)
 
 ---
 
